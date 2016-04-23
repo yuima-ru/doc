@@ -10,11 +10,11 @@
 
 # 書き方
 ## 学校設備利用申請書
-1. まず引き出しから申請書の束?を取り出す、[ここ(画像)](https://github.com/yuima-ru/doc/blob/master/img/%E5%A0%B4%E6%89%80.png)に入ってる
+1. まず引き出しから申請書の束?を取り出す、[ここ(画像)](https://dl.dropboxusercontent.com/u/6350917/yuima-ru/img/%E5%A0%B4%E6%89%80.png)に入ってる
 - 3枚で1セットなので、束から３枚を剥がす
 - お手本を参考に、一番上の紙だけに記入
 
-[お手本の画像](https://github.com/yuima-ru/doc/blob/master/img/%E7%B4%99.png)
+![お手本の画像](https://dl.dropboxusercontent.com/u/6350917/yuima-ru/img/%E7%B4%99.png)
 
 ## 封筒
 俺の住所と名前を書いておく
@@ -22,8 +22,8 @@
 # 提出先
 封筒と申請書を棚の一番下にでも入れておく。
 
-[
-ここに入れておく](https://github.com/yuima-ru/doc/blob/master/img/%E5%A0%B4%E6%89%80.png)
+![
+ここに入れておく](https://dl.dropboxusercontent.com/u/6350917/yuima-ru/img/%E5%A0%B4%E6%89%80.png)
 
 # もし分からなかったら
 ゆいま練習後に来る以下のオバちゃんに聞く
